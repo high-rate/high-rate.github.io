@@ -1,11 +1,11 @@
 # Basic
-title: 潘柏信
+title: high-rate
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: high-rate
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
+avatarDesc: java / 全栈工程师
 url: "http://baixin.io"
 
 # Comment
@@ -17,18 +17,18 @@ comment:
 # Social
 social:
     weibo: 5366874726 
-    github: leopardpan
+    github: high-rate
     # zhihu: panpanleopard
     # juejin: xxx
     jianshu: 2ada30d8d0f7
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: lleech@163.com
 
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
-    id: xxxx  
+    id: 费那劲干啥
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
