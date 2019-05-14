@@ -6,7 +6,7 @@ description: 欢迎来到我的个人站~
 avatarTitle: high-rate
 # 头像里面的描述
 avatarDesc: java / 全栈工程师
-url: "http://baixin.io"
+url: "https://highrate.top"
 
 # Comment
 comment:
@@ -16,25 +16,18 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
+    weibo: 7139405258
     github: high-rate
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    # jianshu: 2ada30d8d0f7
     # twitter: 
     mail: lleech@163.com
 
 
-# 百度统计 
-# 使用博客模板请去掉或者更换 id 
-baidu:
-    id: 费那劲干啥
 
-# Google Analytics
-# 使用博客模板请去掉或者更换 id
-ga:
-    id: xxxx  
-    host: auto  
+
+
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
